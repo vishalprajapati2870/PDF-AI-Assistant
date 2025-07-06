@@ -1,0 +1,13 @@
+# Ignore Python cache and virtualenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Ignore Chroma DB persisted data
+chroma_store/
+*.db
+*.log
