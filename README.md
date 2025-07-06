@@ -16,7 +16,7 @@ A beginner-friendly AI-powered chatbot that allows you to upload a PDF, ask ques
 
 ### 🚀 Demo
 
-You can try it live on [Streamlit Community Cloud](https://share.streamlit.io/your-deployment-link).
+You can try it live on [Streamlit Community Cloud](https://pdf-ai-assistant.streamlit.app/).
 
 ---
 
